@@ -1,4 +1,4 @@
 # Mern-Projects
-In Terminal
-cd directory_name
+In Terminal /n
+cd directory_name /n
 npm starts
